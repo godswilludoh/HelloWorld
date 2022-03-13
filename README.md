@@ -26,4 +26,6 @@ Hardhat was used to test and deploy the smart contract codes in the local develo
 
 Successfully deployed CONTRACT_ADDRESS = "0x32F9e95D0D3A791dbaf410D8567005E10D766f5E"
 
+Rinkeby Etherscan Url = https://rinkeby.etherscan.io/tx/0x2544cb22f17b8d4ab6347a9e110bc278736f6fdd4f5a5103c7c9d8ddffe61c0a
+
 The contract source code was verified on Etherscan and as a result, I could interact with the contract directly via the UI.
